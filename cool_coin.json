@@ -1,0 +1,6 @@
+{
+  "name": "Cool Coin",
+  "symbol": "Cool",
+  "description": "A cool little test coin on the devnet!",
+  "image": "https://raw.githubusercontent.com/superduperdev01/crypto/refs/heads/main/cool_coin.png"
+}
